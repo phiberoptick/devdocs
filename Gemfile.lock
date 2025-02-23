@@ -63,7 +63,7 @@ GEM
     mustermann (3.0.3)
       ruby2_keywords (~> 0.0.1)
     newrelic_rpm (8.16.0)
-    nokogiri (1.18.2)
+    nokogiri (1.18.3)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     options (2.3.2)
@@ -78,7 +78,7 @@ GEM
       byebug (~> 11.0)
       pry (>= 0.13, < 0.15)
     racc (1.8.1)
-    rack (2.2.10)
+    rack (2.2.11)
     rack-protection (3.2.0)
       base64 (>= 0.1.0)
       rack (~> 2.2, >= 2.2.4)
@@ -191,7 +191,7 @@ DEPENDENCIES
   yajl-ruby
 
 RUBY VERSION
-   ruby 3.4.1p0
+   ruby 3.4.2p28
 
 BUNDLED WITH
    2.4.6
